@@ -1,0 +1,35 @@
+{
+  "name": "chainify",
+  "version": "0.1.0",
+  "description": "Enable methods to be called in chain",
+  "main": "./src/index.js",
+  "files": [
+    "/src"
+  ],
+  "scripts": {
+    "test": "ava -v"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cokencode/chainify.git"
+  },
+  "keywords": [
+    "chain",
+    "promise"
+  ],
+  "author": {
+    "name": "Jaehwan Moon",
+    "email": "mkch115@gmail.com"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=6.0.0"
+  },
+  "bugs": {
+    "url": "https://github.com/cokencode/chainify/issues"
+  },
+  "homepage": "https://github.com/cokencode/chainify",
+  "devDependencies": {
+    "ava": "^1.2.0"
+  }
+}
